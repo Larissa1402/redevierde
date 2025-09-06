@@ -6,5 +6,5 @@ python-jose[cryptography]
 pydantic[email]
 python-multipart
 
-\\\\\\\\\
+
 https://aws.amazon.com/pt/blogs/publicsector/tag/aws-educate-starter-accounts/
